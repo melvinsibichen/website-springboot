@@ -17,7 +17,7 @@ public class StudentController {
     @GetMapping("/contact")
         public String ContactPage()
         {
-          return "Welcome to contact page";
+          return "Welcome to contact page...";
         }
     }
 
